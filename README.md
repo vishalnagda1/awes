@@ -3,7 +3,7 @@
 | Score Card Type | View | Download |
 | ------------ | ------------- | ------------- |
 | Computer Science | [View](https://github.com/vishalnagda1/awes/blob/main/AWES-CS.PDF) | [Download](https://github.com/vishalnagda1/awes/raw/main/AWES-CS.PDF) |
-| Information Practices | [View](https://github.com/vishalnagda1/awes/blob/main/AWES-IP.PDF) | [Download](https://github.com/vishalnagda1/awes/raw/main/AWES-IP.PDF) |
+| Informatics Practices | [View](https://github.com/vishalnagda1/awes/blob/main/AWES-IP.PDF) | [Download](https://github.com/vishalnagda1/awes/raw/main/AWES-IP.PDF) |
 
 <br />
 
