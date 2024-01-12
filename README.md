@@ -14,3 +14,4 @@
 | Jalandhar | [View](https://github.com/vishalnagda1/awes/blob/main/jalandhar/aps-jalandhar.pdf) | [Download](https://github.com/vishalnagda1/awes/raw/main/jalandhar/aps-jalandhar.pdf) |
 | Kamptee | [View](https://github.com/vishalnagda1/awes/blob/main/kamptee/aps-kamptee.pdf) | [Download](https://github.com/vishalnagda1/awes/raw/main/kamptee/aps-kamptee.pdf) |
 | Khadakwasla | [View](https://github.com/vishalnagda1/awes/blob/main/khadakwasla/aps-khadakwasla.pdf) | [Download](https://github.com/vishalnagda1/awes/raw/main/khadakwasla/aps-khadakwasla.pdf) |
+| Ambala | [View](https://github.com/vishalnagda1/awes/blob/main/ambala/aps-ambala.pdf) | [Download](https://github.com/vishalnagda1/awes/raw/main/ambala/aps-ambala.pdf) |
